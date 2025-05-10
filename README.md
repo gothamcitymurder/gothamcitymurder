@@ -27,9 +27,9 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=USERNAME&color=blueviolet&style=flat" alt="Просмотры профиля"> 
-  <a href="https://github.com/USERNAME?tab=followers">
-    <img src="https://img.shields.io/github/followers/USERNAME?color=yellow&logo=github" alt="Подписчики">
+  <img src="https://komarev.com/ghpvc/?username=gothamcitymurder&color=blueviolet&style=flat" alt="Просмотры профиля"> 
+  <a href="https://github.com/gothamcitymurder?tab=followers">
+    <img src="https://img.shields.io/github/followers/gothamcitymurder?color=yellow&logo=github" alt="Подписчики">
   </a>
 </p>
 
