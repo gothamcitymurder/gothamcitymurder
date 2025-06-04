@@ -27,7 +27,7 @@
   <a href="https://t.me/VIP_HA_CEPBEPE">
     <img src="https://img.icons8.com/clouds/100/telegram-app.png" width="75">
   </a>
-  <a href="https://instagram.com/VIP_HA_CEPBEPE">
+  <a href="https://instagram.com/gothamcitymurder">
     <img src="https://img.icons8.com/clouds/100/instagram.png" width="75">
   </a>
   <a href="mailto:phreshboyswaga@gmail.com">
@@ -38,7 +38,7 @@
 ---
 
 ### 🎮 **Coding Stats**
-``text
+```text
 🐍 Python       ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰ 95% 
 📊 Pandas      ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰ 85% 
 🤖 Telegram API ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰ 75% 
