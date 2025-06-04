@@ -1,5 +1,7 @@
 <p align="center">
   <a href="https://github.com/gothamcitymurder">
+    <img src="<p align="center">
+  <a href="https://github.com/gothamcitymurder">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=4000&pause=1000&color=7E3ACE&center=true&vCenter=true&width=500&lines=Hey+there+👋+I'm+Python+Padawan;16+yo+code+enthusiast+from+Russia;Turning+coffee+☕+into+code+since+2023;Always+learning+🚀;Open+for+collabs+✨" alt="Typing animation">
   </a>
 </p>
@@ -33,7 +35,7 @@
   <a href="https://t.me/VIP_HA_CEPBEPE">
     <img src="https://img.icons8.com/clouds/100/telegram-app.png" width="75">
   </a>
-  <a href="https://instagram.com/gothamcitymurder">
+  <a href="https://instagram.com/VIP_HA_CEPBEPE">
     <img src="https://img.icons8.com/clouds/100/instagram.png" width="75">
   </a>
   <a href="mailto:phreshboyswaga@gmail.com">
@@ -44,8 +46,9 @@
 ---
 
 ### 🎮 **Coding Stats**
-```text
 🐍 Python       ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰ 95% 
 📊 Pandas      ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰ 85% 
 🤖 Telegram API ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰ 75% 
-🕹️ Pygame      ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰ 65% 
+🕹️ Pygame      ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰ 65% " alt="Typing animation">
+  </a>
+</p>
