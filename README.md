@@ -1,10 +1,3 @@
-<p align="center">
-  <a href="https://github.com/gothamcitymurder">
-    <img src="<p align="center">
-  <a href="https://github.com/gothamcitymurder">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=4000&pause=1000&color=7E3ACE&center=true&vCenter=true&width=500&lines=Hey+there+👋+I'm+Python+Padawan;16+yo+code+enthusiast+from+Russia;Turning+coffee+☕+into+code+since+2023;Always+learning+🚀;Open+for+collabs+✨" alt="Typing animation">
-  </a>
-</p>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=gothamcitymurder&theme=onedark&row=1&column=6" alt="Trophies">
@@ -22,7 +15,6 @@
 ---
 
 ### 🌱 **Current Adventures**
-<!-- Add your own gifs -->
 | **Web Dev** | **Bots** | **Games** | **Data** |
 |-------------|----------|-----------|----------|
 | <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="150"> | <img src="https://media.giphy.com/media/ZXKZWB13D6gvO7Iktj/giphy.gif" width="150"> | <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="150"> | <img src="https://media.giphy.com/media/LpiVeIRgrq6a2js7JX/giphy.gif" width="150"> |
@@ -46,9 +38,8 @@
 ---
 
 ### 🎮 **Coding Stats**
+``text
 🐍 Python       ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰ 95% 
 📊 Pandas      ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰ 85% 
 🤖 Telegram API ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰ 75% 
-🕹️ Pygame      ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰ 65% " alt="Typing animation">
-  </a>
-</p>
+🕹️ Pygame      ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰ 65% 
